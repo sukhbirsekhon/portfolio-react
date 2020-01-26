@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name":"Sukhbir Sekhon",
+    "occupation":"Software Developer",
+    "description":"",
+    "image":"profilepic.png",
+    "bio":"Hey, I am Sukhbir Sekhon, a BSIT student at the University of Cincinnati and currently enrolled in an MBA program as well. Well, there are a lot of things that I can talk about myself, but I believe that there are three 3 things you should know about me. I was born in India and spent 16 years there. For 16 years, I lived in a competitive and learning environment where I learned that giving up is not an option. I educated myself in programming and gained ethics and morals from teachers, family, and friends. Those ethics made me a better human being. I learned to help others, respect everyone, keep learning, do what I love to do, and be loyal. Then 3 years ago I came to the US to obtain a better education. I was not always wanted to come to the IT world, but I wanted to become an Astrophysicist or Mechanical Engineer. I love everything about space and wanted to explore more about the deep universe. My friends used to call me an Astronaut, which sounds stupid. I also love robotics and I like to build drones and Arduino based rovers/robots. But then I was introduced to the concept of building pc. I kept looking at all the parts and tried to understand their use. Once I understood what they are then I started thinking about making my own pc, but I was just like a regular kid who didn’t have enough money to build it. I worked at Kroger and saved money to buy parts for the pc. Finally, I build my own pc and I am currently writing this introduction on that pc. Then I knew that I am going into IT therefore, I enrolled in the IT program. My plans for the future are very straightforward. I want to get as many certifications I can get during my college year and want to work with great companies who promote modern technologies in their workplaces for an effective and efficient product. Then I want to get a degree and gain experience in a developing environment. I like working around new technologies because it expands my knowledge horizon and that is the only reason why I am here, to learn. My goal is to bring positive changes in people's lives and impact their daily life by solving their problems using technology.",
+    "contactmessage":"Once a wise man told me, 'You don't need a parachute to go skydiving. You need a parachute to go skydiving twice.' If you don't understand it, no worry, contact me and I will tell you the meaning.",
+    "email": "sukhbirsekhon3939@gmail.com",
+    "address":{
+      "street":"",
+      "city":"West Chester",
+      "state":"Ohio",
+      "zip": "45069"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"doc/resume.pdf",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sekhonss",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://www.instagram.com/sukhbirsinghsekhon/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/sukhbirsekhon",
+        "className":"fa fa-github"
+      }
+  
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Cincinnati (CECH)",
+        "degree":"Bachelor's of Science Information Technology (Honors)",
+        "graduated":"Anticipated Graduation: 2023",
+        "description":"GPA: 3.981"
+      },
+      {
+        "school":"University of Cincinnati (Linder College of Business)",
+        "degree":"Masters of Business Administration (MBA)",
+        "graduated":"Anticipated Graduation: 2023",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"The Cincinnati Insurance Companies",
+        "title":"Software Developer | Intern",
+        "years":"May 2018 - Present",
+        "description":"Performs mock testing extensively throughout the code. Migrated iText (Library for manipulating pdf) older version (5) to a newer version (7) library throughout the project. Lead project team of interns to create a java app to extract email data and UIPath (Robotic Process Automation) to automate the process. Created an AI process system using Azure during code jam for incoming medical records to start a claim process."
+      },
+      {
+        "company":"UC Information Technology Solutions Center",
+        "title":"Student Worker | DevOps",
+        "years":"September 2018 - April 2019",
+        "description":"Deployed web application using continuous/automation tool drone.io. Dockerized web application by building docker images and containers based on customized dockerfiles. Managed multiple Linux Suse Sle 12 web servers and monitor deployment process. Setup compatible ELK logging system for multiple web services to monitor performance of microservices. Setup servers from scratch to make it compatible for deploying web applications."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Passed Az900",
+        "category":"Microsfot Certifications Experience",
+        "image":"az900.png",
+        "url":"https://az900.blogspot.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Be grateful for what you already have while you pursue your goals. If you aren’t grateful for what you already have, what makes you think you would be happy with more.",
+        "user":"Roy T. Bennett"
+      }
+    ]
+  }
+}
