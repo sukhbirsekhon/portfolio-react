@@ -102,9 +102,15 @@
     "projects": [
       {
         "title":"Passed Az900",
-        "category":"Microsfot Certifications Experience",
+        "category":"Microsoft Certifications Experience",
         "image":"az900.png",
         "url":"https://az900.blogspot.com/"
+      },
+      {
+        "title":"Bhangra: My Literacy",
+        "category":"Dancing",
+        "image":"bhnagra.png",
+        "url":"https://my-bhangra-literacy.blogspot.com/"
       }
     ]
   },
