@@ -67,6 +67,32 @@
         "description":"Deployed web application using continuous/automation tool drone.io. Dockerized web application by building docker images and containers based on customized dockerfiles. Managed multiple Linux Suse Sle 12 web servers and monitor deployment process. Setup compatible ELK logging system for multiple web services to monitor performance of microservices. Setup servers from scratch to make it compatible for deploying web applications."
       }
     ],
+    "awards":[
+      {
+        "title":"Microsoft Certified: Azure Fundamentals",
+        "org":"Demonstrated foundational-level knowledge of cloud services and how those services are provided with Microsoft Azure | Microsoft"
+      },
+      {
+        "title":"Helen P. Glimpse Scholarship",
+        "org":"Awarded by a scholarship because of excellent performance in academics | University of Cincinnati CECH"
+      },
+      {
+        "title":"Dean's List",
+        "org":"Academic award to recognize outstanding grades that were obtained during college semesters | University of Cincinnati CECH"
+      },
+      {
+        "title":"High Honor Roll",
+        "org":"Achieved excellent grades in high school | Lakota West High School"
+      },
+      {
+        "title":"Presidential Award",
+        "org":"Awarded for academic excellence in high school | Lakota West High School"
+      },
+      {
+        "title":"CBSE Science Exhibition",
+        "org":"Achieved no.1 rank at Delhi regional level science exhibition | Guru Nanak Public School"
+      }
+    ],
     "skills":[
       {
         "name":"Git",
