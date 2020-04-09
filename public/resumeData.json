@@ -149,6 +149,12 @@
         "category":"Javascript",
         "image":"logo.png",
         "url":"https://devpost.com/software/globe-chat-application"
+      },
+      {
+        "title":"COVID-19 Tracker",
+        "category":"Android",
+        "image":"covid.png",
+        "url":"https://github.com/sukhbirsekhon/LocalEvents"
       }
     ]
   },
