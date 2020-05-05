@@ -38,7 +38,6 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   background-attachment: fixed;
 
 }
 
@@ -652,7 +651,6 @@ call-to-action .button {
    background: #1F1F1F url(../images/testimonials-bg2.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
-   background-attachment: fixed;
 
    position: relative;
    min-height: 600px;
