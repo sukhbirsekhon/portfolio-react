@@ -151,6 +151,14 @@
         "url":"https://devpost.com/software/globe-chat-application"
       },
       {
+        "title":"Docker reverse proxy using Nginx",
+        "category":"Docker",
+        "image":"docker.jpg",
+        "url":"https://dev.to/sukhbirsekhon/what-is-docker-reverse-proxy-45mm"
+      }
+    ],
+    "projects2": [
+      {
         "title":"Bhangra: My Literacy",
         "category":"Dancing",
         "image":"bhnagra.png",
