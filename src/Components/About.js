@@ -25,7 +25,9 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Sukhbir Sekhon Profile Pic" />
          </div>
          <div className="nine columns main-col">
-            <h2>About Me</h2>
+            <div className="animated">
+               About Me
+            </div>
 
             <p>{bio}</p>
             <p>{bio2}</p>
@@ -35,10 +37,9 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
+						   {/* <span>{street}<br />
 						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
+                   </span><br /> */}
                      <span>{email}</span>
 					   </p>
                </div>
