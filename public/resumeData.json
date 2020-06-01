@@ -169,6 +169,12 @@
         "category":"Electron",
         "image":"electron.png",
         "url":"https://dev.to/sukhbirsekhon/how-to-create-an-electron-app-1d0p"
+      },
+      {
+        "title":"Quick DOM Tutorial",
+        "category":"JS",
+        "image":"js.png",
+        "url":"https://dev.to/sukhbirsekhon/dom-tutorial-39n"
       }
     ]
   },
