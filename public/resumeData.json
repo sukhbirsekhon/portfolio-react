@@ -159,10 +159,10 @@
     ],
     "projects2": [
       {
-        "title":"Bhangra: My Literacy",
-        "category":"Dancing",
-        "image":"bhnagra.png",
-        "url":"https://medium.com/@sukhbirsekhon3939/bhangra-my-literacy-a6e1ec84d2e0"
+        "title":"What is Deno?",
+        "category":"JS",
+        "image":"deno.png",
+        "url":"https://dev.to/sukhbirsekhon/what-is-deno-3hia"
       },
       {
         "title":"How to create an Electron app?",
@@ -175,6 +175,12 @@
         "category":"JS",
         "image":"js.png",
         "url":"https://dev.to/sukhbirsekhon/dom-tutorial-39n"
+      },
+      {
+        "title":"Bhangra: My Literacy",
+        "category":"Dancing",
+        "image":"bhnagra.png",
+        "url":"https://medium.com/@sukhbirsekhon3939/bhangra-my-literacy-a6e1ec84d2e0"
       }
     ]
   },
