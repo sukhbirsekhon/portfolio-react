@@ -14,13 +14,17 @@ class Footer extends Component {
 
      <div className="row">
         <div className="twelve columns">
+            <div className="row">
+                  <video width="500" height="500" controls>
+                     <source src="videos/skydive.mp4" type="video/mp4"></source>
+                  </video>
+            </div>
            <ul className="social-links">
               {networks}
            </ul>
 
            <ul className="copyright">
               <li>&copy; Copyright 2020 Sukhbir Sekhon</li>
-              
            </ul>
 
         </div>
