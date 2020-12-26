@@ -128,33 +128,33 @@
     "projects": [
       {
         "title":"Passed Az900",
-        "category":"Microsoft Certifications Experience",
+        "category":"Certification",
         "image":"az900.png",
         "url":"https://medium.com/@sukhbirsekhon3939/passed-az-900-personal-experience-9e4f78690fc9"
       },
       {
         "title":"COVID-19 Tracker",
-        "category":"Android",
+        "category":"Project",
         "image":"covid.png",
         "url":"https://dev.to/sukhbirsekhon/covid-19-tracker-android-application-introduction-33hh"
       },
       {
         "title":"How to create a login application on Android Studio?",
-        "category":"Android Development",
+        "category":"Project",
         "image":"android.png",
         "url":"https://medium.com/@sukhbirsekhon3939/how-to-create-a-login-application-on-android-studio-d664662578f8"
       },
       {
         "title":"GLOBE CHAT APPLICATION",
-        "category":"Javascript",
+        "category":"Project",
         "image":"logo.png",
         "url":"https://devpost.com/software/globe-chat-application"
       },
       {
-        "title":"Docker reverse proxy using Nginx",
-        "category":"Docker",
-        "image":"docker.jpg",
-        "url":"https://dev.to/sukhbirsekhon/what-is-docker-reverse-proxy-45mm"
+        "title":"Bhangra: My Literacy",
+        "category":"Dancing",
+        "image":"bhnagra.png",
+        "url":"https://medium.com/@sukhbirsekhon3939/bhangra-my-literacy-a6e1ec84d2e0"
       }
     ],
     "projects2": [
@@ -166,7 +166,7 @@
       },
       {
         "title":"How to create an Electron app?",
-        "category":"Electron",
+        "category":"JS",
         "image":"electron.png",
         "url":"https://dev.to/sukhbirsekhon/how-to-create-an-electron-app-1d0p"
       },
@@ -177,10 +177,10 @@
         "url":"https://dev.to/sukhbirsekhon/dom-tutorial-39n"
       },
       {
-        "title":"Bhangra: My Literacy",
-        "category":"Dancing",
-        "image":"bhnagra.png",
-        "url":"https://medium.com/@sukhbirsekhon3939/bhangra-my-literacy-a6e1ec84d2e0"
+        "title":"Docker reverse proxy using Nginx",
+        "category":"Docker",
+        "image":"docker.jpg",
+        "url":"https://dev.to/sukhbirsekhon/what-is-docker-reverse-proxy-45mm"
       },
       {
         "title":"What is Neo4j?",
@@ -188,8 +188,17 @@
         "image":"neo4j.png",
         "url":"https://dev.to/sukhbirsekhon/what-is-neo4j-8jc"
       }
+    ],
+    "projects3": [
+      {
+        "title":"Book Review: Astrophysics for people in a Hurry",
+        "category":"Books",
+        "image":"astrophysics-book.jpg",
+        "url":"https://dev.to/sukhbirsekhon/book-review-of-astrophysics-for-people-in-a-hurry-4649"
+      }
     ]
   },
+  
   "testimonials":{
     "testimonials":[
       {

@@ -51,38 +51,35 @@ e. Others
    line-height: 0.9;
 }
 
-.animated {
-   font: 700 4em/1 "Oswald", sans-serif;
-   font-size: 40px;
-   letter-spacing: 0;
-   padding: .25em 0 .325em;
-     display: block;
-     margin: 0 auto;
-   text-shadow: 0 0 80px rgba(255,255,255,.5);
-
-/* Clip Background Image */
-
-     background: url(http://f.cl.ly/items/010q3E1u3p2Q0j1L1S1o/animated_text_fill.png) repeat-y;
-     -webkit-background-clip: text;
-     background-clip: text;
-
-/* Animate Background Image */
-
-     -webkit-text-fill-color: transparent;
-     -webkit-animation: aitf 80s linear infinite;
-
-/* Activate hardware acceleration for smoother animations */
-
-     -webkit-transform: translate3d(0,0,0);
-     -webkit-backface-visibility: hidden;
-
+.wrap {
+   align-items: center;
+   justify-content: center; 
+   overflow: hidden;   
  }
-/* Animate Background Image */
-
-@-webkit-keyframes aitf {
-   0% { background-position: 0% 50%; }
-   100% { background-position: 100% 50%; }
-}
+ 
+ .wrap h1 {
+   font-weight: 400;
+   font-size: 4rem;
+   background: #2e3192;
+   background: linear-gradient(270deg, #2e3192, #1bffff, #d4145a, #fbb03b, #009245, #fcee21, #662d8c, #ed1e79);
+   background-size: 1600% 1600%;
+   -webkit-animation: GradientAnim 60s ease infinite;
+   animation: GradientAnim 60s ease infinite;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+ }
+ 
+ @-webkit-keyframes GradientAnim {
+     0%{background-position: 0% 50%}
+     50%{background-position: 100% 50%}
+     100%{background-position: 0% 50%}
+ }
+ 
+ @keyframes GradientAnim { 
+     0%{background-position: 0% 50%}
+     50%{background-position: 100% 50%}
+     100%{background-position: 0% 50%}
+ } 
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
