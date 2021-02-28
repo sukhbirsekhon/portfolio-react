@@ -195,6 +195,12 @@
         "category":"Books",
         "image":"astrophysics-book.jpg",
         "url":"https://dev.to/sukhbirsekhon/book-review-of-astrophysics-for-people-in-a-hurry-4649"
+      },
+      {
+        "title":"Book Review: Brief Answers to the Big Questions",
+        "category":"Books",
+        "image":"brief-answers.jpg",
+        "url":"https://dev.to/sukhbirsekhon/brief-answers-to-the-big-questions-by-stephen-hawking-34ng"
       }
     ]
   },
